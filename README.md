@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Magnus Palmblad</h1>
 <h3 align="center">A researcher in bioinformatics, computational proteomics and mass spectrometry</h3>
 
-- 🔭 I’m currently working on [compareMS2](https://github.com/magnuspalmblad/compareMS2) and various projects applying machine learning in proteomics.
+- 🔭 I’m currently working on [compareMS2](https://github.com/magnuspalmblad/compareMS2) and various projects applying machine learning in proteomics
 
 - 📝 I irregularly write articles on [https://magnuspalmblad.github.io/](https://magnuspalmblad.github.io/)
 
